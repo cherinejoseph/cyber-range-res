@@ -1,4 +1,4 @@
-## Subject: Vulnerability Remediation Scripts for Testing and Deployment
+**Subject**: Vulnerability Remediation Scripts for Testing and Deployment
 
 Hi Infrastructure Team,
 
