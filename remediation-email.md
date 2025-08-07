@@ -1,6 +1,6 @@
 ## Subject: Vulnerability Remediation Scripts for Testing and Deployment
 
-Hi Server Team Lead,
+Hi Infrastructure Team,
 
 Following our initial vulnerability scan and assessment, we’ve created a set of remediation scripts to assist with addressing the most critical issues. These scripts are designed to be easily integrated into your existing deployment workflows (e.g., SCCM) and should streamline your initial remediation efforts.
 
