@@ -5,10 +5,10 @@ Hi Server Team Lead,
 Following our initial vulnerability scan and assessment, we’ve created a set of remediation scripts to assist with addressing the most critical issues. These scripts are designed to be easily integrated into your existing deployment workflows (e.g., SCCM) and should streamline your initial remediation efforts.
 
 ### Vulnerabilities and Remediations:
-1. [**Third-Party Software Removal (Wireshark)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/remediation-wireshark-uninstall.ps1)
-2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-protocols.ps1)
-3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-cipher-suites.ps1)
-4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-guest-local-administrators.ps1)
+1. [**Third-Party Software Removal (Wireshark)**](https://github.com/cherinejoseph/cyber-range-res/blob/main/automation/remediation-wireshark-uninstall.ps1)
+2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/cherinejoseph/cyber-range-res/blob/main/automation/toggle-protocols.ps1)
+3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/cherinejoseph/cyber-range-res/blob/main/automation/toggle-cipher-suites.ps1)
+4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/cherinejoseph/cyber-range-res/blob/main/automation/toggle-guest-local-administrators)
 
 Please test these scripts in your development or staging environment before deploying them into production.
 
